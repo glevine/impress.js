@@ -182,11 +182,19 @@ a:focus {
     color: rgb(102, 102, 102);
 }
 
+#sugardk {
+    width: 1000px;
+    padding-left: 200px;
+    background-image: url(../img/dark_cube.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
 #bombs {
     width: 500px;
 
-    background-image: url(../bombs.gif);
-    background-position: top middle;
+    background-image: url(../img/bombs.gif);
+    background-position: top center;
     background-repeat: no-repeat;
 }
 
